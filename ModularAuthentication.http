@@ -1,0 +1,6 @@
+@ModularAuthentication_HostAddress = http://localhost:5072
+
+GET {{ModularAuthentication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
